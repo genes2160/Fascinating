@@ -1,9 +1,9 @@
-<?php include 'templates/header.php'; ?>
+<?php include 'header.php'; ?>
 
 
-<?php include 'templates/body.php'; ?>
+<?php include 'body.php'; ?>
 
 
 
 
-<?php include 'templates/footer.php'; ?>
+<?php include 'footer.php'; ?>
